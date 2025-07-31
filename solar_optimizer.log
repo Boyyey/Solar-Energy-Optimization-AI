@@ -1,0 +1,10 @@
+2025-07-30 16:16:51,015 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2025-07-30 16:16:51,202 - cmdstanpy - DEBUG - Adding TBB (C:\Users\MEHR\AppData\Local\Programs\Python\Python312\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2025-07-30 16:16:51,238 - prophet - INFO - n_changepoints greater than number of observations. Using 18.
+2025-07-30 16:16:51,243 - cmdstanpy - DEBUG - input tempfile: C:\Users\MEHR\AppData\Local\Temp\tmpyqihuvh0\ho1gupmv.json
+2025-07-30 16:16:51,250 - cmdstanpy - DEBUG - input tempfile: C:\Users\MEHR\AppData\Local\Temp\tmpyqihuvh0\1k4mm3n5.json
+2025-07-30 16:16:51,254 - cmdstanpy - DEBUG - idx 0
+2025-07-30 16:16:51,254 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2025-07-30 16:16:51,255 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\MEHR\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=77635', 'data', 'file=C:\\Users\\MEHR\\AppData\\Local\\Temp\\tmpyqihuvh0\\ho1gupmv.json', 'init=C:\\Users\\MEHR\\AppData\\Local\\Temp\\tmpyqihuvh0\\1k4mm3n5.json', 'output', 'file=C:\\Users\\MEHR\\AppData\\Local\\Temp\\tmpyqihuvh0\\prophet_modelpmu9zpra\\prophet_model-20250730161651.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2025-07-30 16:16:51,255 - cmdstanpy - INFO - Chain [1] start processing
