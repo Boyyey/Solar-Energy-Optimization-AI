@@ -135,12 +135,3 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-For questions or support, please open an issue or contact our team at support@solaroptimizer.com
-
----
-
-<p align="center">
-  Made with ❤️ by the Solar Optimizer Team | 2025
-</p>
